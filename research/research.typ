@@ -8,6 +8,8 @@ commands and when to insert text) is not necessary.
 
 The google docs voice to text introduces rudimentary commands that seem to be adequate for prosee writing. Is there a different niche I could target? GestureVoice uses a multimodal approach with a smart watch, voice to text, and voice commands to help blind users send primarily texts on their phone. Could I use a multi-modal approach to target a different niche?
 
+GestureVoice uses regular text to speech. Then a knob with selectable granularities to navigate to an error dictating exactly whats being passed. And then simple commands to fix typos.
+
 == Academic Articles
 
 Find academic articles though the ACM digital library, IEEE, and the assets
@@ -19,7 +21,7 @@ technology.
 - Wizard Of Oz Study Example: ./articles/wizard-of-oz-example.pdf
 
 == Outside of Academia
-- Dragon Professional Naturally Speaking Software (expensive)
+- Dragon Professional Naturally Speaking Software (expensive). The reason (as far as I can tell) that dragon is expensive is because they have a proprietary model for converting speech to text thats the best in the business.
 
 - Google Docs Voice To Text introduces rudimentary commands
 

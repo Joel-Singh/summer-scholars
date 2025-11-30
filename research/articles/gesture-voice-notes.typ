@@ -2,7 +2,7 @@
 
 - Like GestureVoice I would want to review related work on text editing for users with decreased hand mobility.
 
-- Khan et al, speech bassed text editing system
+- Khan et al, speech based text editing system that already exists
 
 - Do a preliminary study
 

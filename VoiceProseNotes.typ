@@ -111,3 +111,5 @@ Especially important for finding participants
 - Minimal learning curve. The vim-like language Voice Prose uses should mimic
   natural speech and new commands should have easy discoverability.
 
+
+== Things To Ask Currin

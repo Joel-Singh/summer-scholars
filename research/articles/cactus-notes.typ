@@ -1,0 +1,1 @@
+- Gazing technology is quite interesting for web browsing.
