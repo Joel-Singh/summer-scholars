@@ -1,8 +1,8 @@
-#set page(margin: 1.75in)
-#set par(leading: 0.55em, spacing: 0.55em, first-line-indent: 1.8em, justify: true)
-#set text(font: "New Computer Modern")
-#show raw: set text(font: "New Computer Modern Mono")
-#show heading: set block(above: 1.4em, below: 1em)
+// #set page(margin: 1.75in)
+// #set par(leading: 0.55em, spacing: 0.55em, first-line-indent: 1.8em, justify: true)
+// #set text(font: "New Computer Modern")
+// #show raw: set text(font: "New Computer Modern Mono")
+// #show heading: set block(above: 1.4em, below: 1em)
 
 Summer Scholar Outline for Voice Prose
 
@@ -21,10 +21,7 @@ Summer Scholar Outline for Voice Prose
 + Your anticipated semester of graduation (fall or spring): Spring
 + Research mentor’s last name: Currin
 + Mentor’s departmental/program affiliation: Computer Science
-+ Expected length of your summer research experience: 10 Weeks
-Standard research experience: 10 weeks. Some student-mentor teams conduct a 9 or 8 week research 
-experience. 
-
++ Expected length of your summer research experience: 8 Weeks
 #pagebreak()
 
 == Introduction
@@ -35,11 +32,13 @@ search of a problem. I still wish to research computer accessibility of text
 inputs but would be willing to switch topics. Voice Prose is going to evolve,
 either designing a software solution around a specific demographic of people
 (e.g low sighted, mute, etc) or a general one and then testing its
-effectiveness in the same manner as previous similar work?
+effectiveness in the same manner as previous similar work? I plan to talk with
+the DDAA president Ella and an ARC Director to search for problems.
 
 == Related Work
 
 - GestureVoice: Uses a multi-modal approach to improve error correction speed in low-sighted individuals. 
+- Gestures and Widgets: Using a set of finger gestures to encode specific text manipulations on touchscreens to speed up typing text while reducing cognitive load.
 
 == Research Questions
 
@@ -56,18 +55,26 @@ effectiveness in the same manner as previous similar work?
 
 - I would choose the 8 week option from May 25th to July 17th to avoid clashing with IDC
 
-- Week 1: Preliminary Study to measure how well text is inputted by my target group of people
-- Week 2: Wizard Of Oz study to figure out the best features for the software
-- Week 3 - 5: Development of the software necessary
-- Week 6 - 7: Another session to measure the effectiveness of the software and compare it to the previous measured baseline
-- Week 8: Modifying software
+- Need to confirm Dr. Currin would be around for weeks 1, 2, 7, and 8. Those
+  are the important weeks I would need help.
+
+- Week 1, May 25th to May 31st: Preliminary Study to measure how well text is inputted by my target group of people
+- Week 2, June 1st to June 7th: Wizard Of Oz study to figure out the best features for the software
+- Week 3 - 6, June 8th to June 28th: Development of the software necessary
+- Week 7 - 8, June 29th to July 17th: Another session to measure the effectiveness of the software and compare it to the previous measured baseline
 
 == Bibliography
 
 == Future
 
-- How to start the IRB?
+- Start the IRB ?
 - Finding Partipcants for my study?
+- Further research to figure out a text input method?
+- Methods: The specific statistical methods for the study
+- The questions to ask for the preliminary session?
+- The questions to ask for the Wizard Of Oz session?
+- The questions to ask for the final session?
+- The method by which the software would be coded (i.e roughly how would I go about it)
 
 I plan to do further research this weekend to hammer down an alternative input
 method. And then schedule another meeting before winter break to focus my
