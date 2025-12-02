@@ -29,30 +29,46 @@ experience.
 
 == Introduction
 
+From going over a couple research articles, I've come to the conclusion that
+the initial idea for Voice Prose is needlessly complicated and is a solution in
+search of a problem. I still wish to research computer accessibility of text
+inputs but would be willing to switch topics. Voice Prose is going to evolve,
+either designing a software solution around a specific demographic of people
+(e.g low sighted, mute, etc) or a general one and then testing its
+effectiveness in the same manner as previous similar work?
+
 == Related Work
 
-How Voice Prose fits into the existing literature.
+- GestureVoice: Uses a multi-modal approach to improve error correction speed in low-sighted individuals. 
 
 == Research Questions
 
-- Is Voice only a tangible mode of writing long prose?
+- How effective is [an alternative mode] of input [for a specific demographic]
 
 == Methods
 
-- Wizard Of Oz session to figure out how Voice Prose should work
+- Wizard Of Oz session to figure out what the resulting software should be
 - After writing the software, another session will be conducted but with the real software
+- Some statistical (?) method in order to determine whether the software actually helped
 
 == Timeline
-- When is Currin going to the IDC?
+- Dr. Currin is going to IDC from May 18th to the 21st
+
+- I would choose the 8 week option from May 25th to July 17th to avoid clashing with IDC
+
+- Week 1: Preliminary Study to measure how well text is inputted by my target group of people
+- Week 2: Wizard Of Oz study to figure out the best features for the software
+- Week 3 - 5: Development of the software necessary
+- Week 6 - 7: Another session to measure the effectiveness of the software and compare it to the previous measured baseline
+- Week 8: Modifying software
 
 == Bibliography
 
-= References
+== Future
 
-= Notes
+- How to start the IRB?
+- Finding Partipcants for my study?
 
-- Need to ask Currin how to go about starting the IRB
-- Finding Partipcants for my study? Ask Arc and DDAA.
-- Help logging into ACM? Denison isn't listed? https://dl.acm.org/action/showLogin?redirectUri=%2Fdoi%2Fabs%2F10.1145%2F3663547.3746388
-
-- I need to meet with: DDAA, ARC, 
+I plan to do further research this weekend to hammer down an alternative input
+method. And then schedule another meeting before winter break to focus my
+efforts during Winter Break.

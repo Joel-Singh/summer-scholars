@@ -20,6 +20,9 @@ technology.
 - GestureVoice: ./articles/GestureVoice.pdf
 - Wizard Of Oz Study Example: ./articles/wizard-of-oz-example.pdf
 
+Perhaps I could do something with Gaze?:
+https://dl.acm.org/action/doSearch?AllField=typing+with+gaze
+
 == Outside of Academia
 - Dragon Professional Naturally Speaking Software (expensive). The reason (as far as I can tell) that dragon is expensive is because they have a proprietary model for converting speech to text thats the best in the business.
 
